@@ -1,0 +1,14 @@
+.covid{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.navbar{
+    background-color: #EB5757;
+}
+
+#black{
+    color:black;
+}
